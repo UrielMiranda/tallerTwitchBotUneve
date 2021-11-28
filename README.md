@@ -10,9 +10,13 @@
 Selecciona Navegador
 
 ![Imgur Image](https://imgur.com/P81oykC.png)
+
+
 Crea un titulo
 
 ![Imgur Image](https://imgur.com/lYEoQvM.png)
-Selecciona Archivo Local y Examina tus archivos hasta donde este tu html
+
+
+Selecciona Archivo Local y Examina tus archivos hasta donde este tu html.
 ![Imgur Image](https://imgur.com/IaxVlzk.png)
 
